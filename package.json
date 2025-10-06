@@ -1,0 +1,7 @@
+{
+    "name": "seeting_behavior_demos",
+    "license": "BSD-3-Clause",
+    "devDependencies": {
+        "typescript": "^5.9.3"
+    }
+}
